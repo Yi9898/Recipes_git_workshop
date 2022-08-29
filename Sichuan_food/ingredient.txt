@@ -4,3 +4,5 @@ Hotpot souce
 vegetables
 meat
 noodles
+rice
+
